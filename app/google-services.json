@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "53139896978",
+    "firebase_url": "https://fcm-topic-messaging-tutorial.firebaseio.com",
+    "project_id": "fcm-topic-messaging-tutorial",
+    "storage_bucket": "fcm-topic-messaging-tutorial.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:53139896978:android:f1a1a59e6feec10d",
+        "android_client_info": {
+          "package_name": "de.derandroidpro.fcmtopicmessagingtutorial"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "53139896978-lpjte2quclqqvkl2gaeb0jqpf70jfv2e.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDYBQkZU_eBN8L5z1sCm2lwLUpNQFxCTzU"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
