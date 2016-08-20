@@ -4,14 +4,13 @@ So sendet ihr über Firebase Cloud Messaging, dem Nachfolger von Google Cloud Me
 - <a href="https://youtu.be/qVCH35FtoKo" target="_blank" >Tutorial auf YouTube</a>
 - Projekt für Android Studio
 
----
-
-Wichtige Dateien: 
+##Wichtige Dateien: 
 - [FCM_Instance_ID_Service.java](/app/src/main/java/de/derandroidpro/fcmtopicmessagingtutorial/FCM_Instance_ID_Service.java)
 - [FCM_Messaging_Service.java](/app/src/main/java/de/derandroidpro/fcmtopicmessagingtutorial/FCM_Messaging_Service.java)
+- [topic_message_sender.php](/topic_message_sender.php)
 
 ---
 
-<b>SCREENSHOT</b>
+##Screenshot
 
 <img src="/Screenshot_20160626-021745.png" height="500px" />
